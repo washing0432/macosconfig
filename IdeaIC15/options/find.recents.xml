@@ -1,0 +1,22 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>script</find>
+      <find>blocking</find>
+      <find>com.huazhu.utility</find>
+      <find>GetStockView</find>
+      <find>addActivityRoomPolicyHotel</find>
+      <find>page</find>
+      <find>ok</find>
+      <find>getListByHotelIdAndPushTypeAndStartDateAndEndDate</find>
+      <find>onerr</find>
+      <find>updateStatus</find>
+      <find>orderTransList</find>
+      <find>getRealRoomCount</find>
+      <find>policyid</find>
+      <find>真实库存无法挂靠到对应可售库存档</find>
+      <find>addActivityInventory</find>
+      <find>result issssssss</find>
+    </findStrings>
+  </component>
+</application>

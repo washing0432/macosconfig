@@ -1,0 +1,27 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "mssql.connections": [
+        {
+            "authenticationType": "SqlLogin",
+            "server": "10.1.249.76",
+            "database": "otaroomengine",
+            "user": "tester",
+            "password": "",
+            "savePassword": true
+        },
+        {
+            "authenticationType": "SqlLogin",
+            "server": "10.1.249.76",
+            "database": "MarketingCenterDB",
+            "user": "tester",
+            "password": "",
+            "savePassword": true
+        }
+    ],
+    "editor.wordWrap": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "files.autoSave": "onFocusChange",
+    "workbench.activityBar.visible": true
+}

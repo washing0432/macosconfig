@@ -1,0 +1,235 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/project/gitlab/StockStack" />
+        <option value="$USER_HOME$/project/gitlab/ota-room-engine-queryer/ota-room-engine-queryer.ipr" />
+        <option value="$USER_HOME$/project/gitlab/ota-room-engine-processor/ota-room-engine-processor.ipr" />
+        <option value="$USER_HOME$/project/gitlab/ota-room-engine.receiver" />
+        <option value="$USER_HOME$/project/ratpack/ota-room-engine" />
+        <option value="$USER_HOME$/project/ratpack/otaconnecter" />
+        <option value="$USER_HOME$/project/gitlab/hhub.orders" />
+        <option value="$USER_HOME$/project/ratpack/demo/ratpack-blocking-example" />
+        <option value="$USER_HOME$/project/ratpack/demo/example-ratpack-gradle-groovy-app" />
+        <option value="$USER_HOME$/project/grails/helloworld" />
+        <option value="$USER_HOME$/project/demo/hhello_world" />
+        <option value="$USER_HOME$/project/demo/demo_gradle_web_idea" />
+        <option value="$USER_HOME$/project/demo/greeting_3" />
+        <option value="$USER_HOME$/project/demo/greeting_2" />
+        <option value="$USER_HOME$/project/demo/greeting_1" />
+        <option value="$USER_HOME$/IdeaProjects/hello-world-withmyproject" />
+        <option value="$USER_HOME$/IdeaProjects/helloworld" />
+        <option value="$USER_HOME$/IdeaProjects/hello-world" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/project/gitlab/StockStack" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/project/gitlab/StockStack" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/hello-world">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453190396847" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hello-world-withmyproject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453888063588" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/helloworld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453191462307" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/demo/demo_gradle_web_idea">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453954645698" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/demo/greeting_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453890204774" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/demo/greeting_2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453890551246" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/demo/greeting_3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453953438927" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/demo/hhello_world">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456907431087" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/gitlab/StockStack">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497576377899" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/gitlab/hhub.orders">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484129136264" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/gitlab/ota-room-engine-processor/ota-room-engine-processor.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1494923063364" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/gitlab/ota-room-engine-queryer/ota-room-engine-queryer.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1495449727915" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/gitlab/ota-room-engine.receiver">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1494590389615" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/grails/helloworld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457935591144" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/ratpack/demo/example-ratpack-gradle-groovy-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467685435529" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/ratpack/demo/ratpack-blocking-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468293372367" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/ratpack/ota-room-engine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491960257503" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/ratpack/otaconnecter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.382" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491892986407" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/project/gitlab" />
+  </component>
+</application>

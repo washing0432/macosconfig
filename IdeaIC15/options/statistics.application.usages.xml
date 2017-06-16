@@ -1,0 +1,118 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="ota-room-engine" values="groovy" collectionTime="1491960474672" />
+      <project id="ota-room-engine-queryer" values="groovy" collectionTime="1495449730891" />
+      <project id="otaconnecter" values="groovy" collectionTime="1491892989890" />
+      <project id="ota-room-engine-processor" values="groovy" collectionTime="1494923193019" />
+      <project id="example-ratpack-gradle-groovy-app" values="groovy" collectionTime="1467711650109" />
+      <project id="StockStack" values="groovy" collectionTime="1497522665722" />
+      <project id="hhub.orders" values="groovy" collectionTime="1484129714493" />
+      <project id="helloworld" values="groovy" collectionTime="1457949978062" />
+      <project id="hhello_world" values="groovy" collectionTime="1456907467075" />
+    </group>
+    <group name="language-level">
+      <project id="otaconnecter" values="JDK_1_6" collectionTime="1491892989891" />
+      <project id="greeting_3" values="JDK_1_8" collectionTime="1453954639931" />
+      <project id="ota-room-engine.receiver" values="JDK_1_6" collectionTime="1494590406972" />
+      <project id="ota-room-engine-queryer" values="JDK_1_8" collectionTime="1495449730892" />
+      <project id="hhub.orders" values="JDK_1_6" collectionTime="1484129714523" />
+      <project id="ota-room-engine" values="JDK_1_6" collectionTime="1491960474690" />
+      <project id="StockStack" values="JDK_1_6" collectionTime="1497522665745" />
+      <project id="example-ratpack-gradle-groovy-app" values="JDK_1_6" collectionTime="1467711650116" />
+      <project id="hhello_world" values="JDK_1_8" collectionTime="1456907467104" />
+      <project id="ota-room-engine-processor" values="JDK_1_8" collectionTime="1494923193047" />
+      <project id="ratpack-blocking-example" values="JDK_1_6" collectionTime="1468293892154" />
+      <project id="greeting_2" values="JDK_1_8" collectionTime="1453892237875" />
+      <project id="greeting_1" values="JDK_1_8" collectionTime="1453890551246" />
+      <project id="demo_gradle_web_idea" values="JDK_1_6" collectionTime="1453890135308" />
+      <project id="hello-world" values="JDK_1_8" collectionTime="1453888067210" />
+      <project id="helloworld" values="JDK_1_6" collectionTime="1457949978095" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="greeting_3" values="GradleRunConfiguration" collectionTime="1453954639622" />
+      <project id="ota-room-engine" values="GradleRunConfiguration" collectionTime="1491960474445" />
+      <project id="ratpack-blocking-example" values="GradleRunConfiguration" collectionTime="1468293891908" />
+      <project id="hhub.orders" values="GroovyScriptRunConfiguration" collectionTime="1484129714156" />
+      <project id="ota-room-engine-processor" values="Unknown" collectionTime="1494923192605" />
+      <project id="demo_gradle_web_idea" values="GradleRunConfiguration" collectionTime="1453890135257" />
+      <project id="StockStack" values="GradleRunConfiguration,Application" collectionTime="1497522665309" />
+      <project id="greeting_2" values="GradleRunConfiguration" collectionTime="1453892237825" />
+      <project id="helloworld" values="Application" collectionTime="1457949977652" />
+    </group>
+    <group name="vcs">
+      <project id="ota-room-engine-queryer" values="Git" collectionTime="1495449730791" />
+      <project id="ota-room-engine" values="Git" collectionTime="1491960474443" />
+      <project id="ratpack-blocking-example" values="Git" collectionTime="1468293891907" />
+      <project id="StockStack" values="Git" collectionTime="1497522665307" />
+      <project id="ota-room-engine-processor" values="Git" collectionTime="1494923192603" />
+      <project id="example-ratpack-gradle-groovy-app" values="Git" collectionTime="1467711649692" />
+      <project id="ota-room-engine.receiver" values="Git" collectionTime="1494590406955" />
+      <project id="hhub.orders" values="Git" collectionTime="1484129714154" />
+      <project id="helloworld" values="Git" collectionTime="1457949977651" />
+    </group>
+    <group name="file-type">
+      <project id="otaconnecter" values="Properties,Groovy,Images,IDEA_MODULE,XML,PLAIN_TEXT,UNKNOWN,ARCHIVE" collectionTime="1491892989888" />
+      <project id="greeting_3" values="JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,Groovy,XML" collectionTime="1453954639914" />
+      <project id="ota-room-engine.receiver" values="UNKNOWN" collectionTime="1494590406971" />
+      <project id="ota-room-engine-queryer" values="PLAIN_TEXT,IDEA_WORKSPACE,IDEA_MODULE,Groovy,Properties,UNKNOWN,IDEA_PROJECT,JAVA" collectionTime="1495449730890" />
+      <project id="hhub.orders" values="IDEA_MODULE,ARCHIVE,PLAIN_TEXT,Groovy,Images,UNKNOWN,XML,Properties" collectionTime="1484129714377" />
+      <project id="ota-room-engine" values="UNKNOWN,Properties,XML,JavaScript,CSS,IDEA_MODULE,Groovy,ARCHIVE,Images,PLAIN_TEXT" collectionTime="1491960474636" />
+      <project id="StockStack" values="Properties,SQL,IDEA_MODULE,Images,Groovy,PLAIN_TEXT,XML,UNKNOWN,ARCHIVE" collectionTime="1497522665585" />
+      <project id="example-ratpack-gradle-groovy-app" values="JavaScript,PLAIN_TEXT,IDEA_MODULE,CSS,Groovy,HTML,XML,ARCHIVE,Images,Properties,UNKNOWN" collectionTime="1467711650063" />
+      <project id="hhello_world" values="Groovy,UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1456907467027" />
+      <project id="ota-room-engine-processor" values="Groovy,IDEA_MODULE,Properties,IDEA_PROJECT,PLAIN_TEXT,UNKNOWN,IDEA_WORKSPACE" collectionTime="1494923192906" />
+      <project id="ratpack-blocking-example" values="Groovy,XML,Properties,IDEA_MODULE,UNKNOWN,ARCHIVE,PLAIN_TEXT" collectionTime="1468293892128" />
+      <project id="greeting_2" values="Manifest,UNKNOWN,XML,JAVA,ARCHIVE,Properties,Groovy,PLAIN_TEXT,IDEA_MODULE" collectionTime="1453892237874" />
+      <project id="greeting_1" values="UNKNOWN,Groovy,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1453890551246" />
+      <project id="demo_gradle_web_idea" values="Properties,ARCHIVE,UNKNOWN,JAVA,PLAIN_TEXT,Groovy,XML,IDEA_MODULE" collectionTime="1453890135307" />
+      <project id="hello-world" values="Groovy,IDEA_MODULE,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1453888067209" />
+      <project id="helloworld" values="IDEA_MODULE,Images,JavaScript,UNKNOWN,Properties,ARCHIVE,CSS,PLAIN_TEXT,Groovy,XML" collectionTime="1457949977874" />
+    </group>
+    <group name="module type">
+      <project id="otaconnecter" values="JAVA_MODULE" collectionTime="1491892989837" />
+      <project id="greeting_3" values="JAVA_MODULE" collectionTime="1453954639621" />
+      <project id="ota-room-engine.receiver" values="JAVA_MODULE" collectionTime="1494590406955" />
+      <project id="ota-room-engine-queryer" values="JAVA_MODULE" collectionTime="1495449730791" />
+      <project id="hhub.orders" values="JAVA_MODULE" collectionTime="1484129714155" />
+      <project id="ota-room-engine" values="JAVA_MODULE" collectionTime="1491960474443" />
+      <project id="StockStack" values="JAVA_MODULE" collectionTime="1497522665308" />
+      <project id="example-ratpack-gradle-groovy-app" values="JAVA_MODULE" collectionTime="1467711649693" />
+      <project id="hhello_world" values="JAVA_MODULE" collectionTime="1456907466638" />
+      <project id="ota-room-engine-processor" values="JAVA_MODULE" collectionTime="1494923192604" />
+      <project id="ratpack-blocking-example" values="JAVA_MODULE" collectionTime="1468293891907" />
+      <project id="greeting_2" values="JAVA_MODULE" collectionTime="1453892237825" />
+      <project id="greeting_1" values="JAVA_MODULE" collectionTime="1453890551217" />
+      <project id="demo_gradle_web_idea" values="JAVA_MODULE" collectionTime="1453890135257" />
+      <project id="hello-world" values="JAVA_MODULE" collectionTime="1453888067158" />
+      <project id="helloworld" values="JAVA_MODULE" collectionTime="1457949977651" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ratpack-blocking-example" values="GradleRunConfiguration" collectionTime="1468293891908" />
+      <project id="ota-room-engine.receiver" values="GradleRunConfiguration" collectionTime="1494590406955" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="execute.Application.Debug" count="36" />
+      <entry feature="execute.Application.Run" count="10" />
+      <entry feature="execute.GradleRunConfiguration.Debug" count="208" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="42" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Debug" count="2" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="8" />
+      <entry feature="execute.JUnit.Run" count="3" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Keymap" count="19" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ideaapp.started" count="80" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+    </counts>
+  </component>
+</application>
